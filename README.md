@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cameron T. Hulse and I was born in Tri-Cities, TN and have lived here ever since!
+- 👋 Hi, I’m Cameron T. Hulse and I was born in Tri-Cities, TN in 2000 and have lived here ever since!
 - 👀 I’m interested in becoming a professional Full-Stack Developer.
 - 🌱 I’m currently learning Full-Stack Development via ReactJS, ExpressJS, Axios, and more!
 - 💞️ I’m looking to collaborate on any projects you have in mind, I'm always willing to help as long as you're willing to share the knowledge! ;)
